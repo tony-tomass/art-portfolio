@@ -1,13 +1,25 @@
-img {
+.galIMG {
     width: 400px;
     height: 400px;
     object-fit: cover;
     object-position: center;
-    padding: 5px;
+    border-style: solid;
+    border-color: black;
 }
 
-img:hover {
+.galIMG:hover {
+    width: 440px;
     cursor: pointer;
-    opacity: 50%;
-    transition: 0.2s;
+    border-style: solid;
+    border-color: aqua;
+    transition: 0.4s;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:white;
+    text-decoration: none;
 }

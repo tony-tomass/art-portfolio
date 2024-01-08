@@ -25,4 +25,5 @@
 + Basic header (has no functionality and only viewable on gallery.html)
 + Added test images for testing gallery
 + Changing opacity when hovering over images in gallery
+    + Changes width of image and addes border when hovering
 + Clicking images opens them in new tab
