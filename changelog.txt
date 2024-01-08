@@ -1,0 +1,28 @@
+== Start date 1/8/2024
+== TODO List ==
+- Header with nav buttons
+- Full gallery
+- Compressed (thumbnail) gallery
+- Open image when clicked Open
+- Make website look pretty
+- Improve performance?
+- Get images
+- Lazy loading
+- Separate galleries depending on image category
+- Dynamic layout
+- Home/index page (small preview gallery)
+- Gallery page (full gallery)
+- Sub-gallery pages
+- About page
+- Examples https://www.wix.com/blog/art-portfolio-website-examples
+- Live preview on phone https://medium.com/@pavankapoor31/how-to-use-vs-code-live-server-local-host-on-mobile-phone-8b38a62117d2
+
+------------------------------------------------------------------------------------------------------------------------
+
+== 1/8/2024 ==
++ Added index.html and gallery.html
++ Dynamic gallery
++ Basic header (has no functionality and only viewable on gallery.html)
++ Added test images for testing gallery
++ Changing opacity when hovering over images in gallery
++ Clicking images opens them in new tab

@@ -1,0 +1,13 @@
+img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+    padding: 5px;
+}
+
+img:hover {
+    cursor: pointer;
+    opacity: 50%;
+    transition: 0.2s;
+}
