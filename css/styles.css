@@ -19,6 +19,14 @@ a {
     text-decoration: none;
 }
 
+h1 {
+    font-family: Jost;
+}
+
+h2 {
+    font-family: Jost;
+}
+
 a:visited {
     color:white;
     text-decoration: none;

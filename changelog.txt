@@ -19,7 +19,11 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 
-== 1/8/2024 ==
+== 1/9/2024 ==
++ Added Jost font family
+~ Changed Home page design
+
+== 1/8/2024==
 + Added index.html and gallery.html
 + Dynamic gallery
 + Basic header (has no functionality and only viewable on gallery.html)
